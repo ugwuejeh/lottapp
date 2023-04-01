@@ -1,0 +1,2 @@
+# lottapp
+lottery applicating game
